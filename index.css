@@ -1,0 +1,16 @@
+canvas {
+    max-width: 300px;
+}
+
+canvas.empty {
+    border: 1px dashed #333333;
+    border-radius: 8px;
+}
+
+#wrap {
+    margin-top: 50px;
+    max-width: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
